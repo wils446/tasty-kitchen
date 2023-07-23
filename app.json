@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "tasty-kitchen",
+    "slug": "tasty-kitchen"
+  }
+}
