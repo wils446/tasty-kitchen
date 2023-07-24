@@ -28,8 +28,8 @@ const RecipePage = () => {
 		<SafeAreaView>
 			<View>
 				<StatusBar
-					backgroundColor={colors.lightWhite}
-					barStyle="dark-content"
+					backgroundColor={colors.black}
+					barStyle="light-content"
 					animated={true}
 				/>
 			</View>

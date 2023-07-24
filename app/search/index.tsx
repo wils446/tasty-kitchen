@@ -45,8 +45,8 @@ const Search = () => {
 	return (
 		<SafeAreaView>
 			<StatusBar
-				backgroundColor={colors.lightWhite}
-				barStyle="dark-content"
+				backgroundColor={colors.black}
+				barStyle="light-content"
 				animated={true}
 			/>
 			<ScrollView style={{ paddingTop: StatusBar.currentHeight }}>
